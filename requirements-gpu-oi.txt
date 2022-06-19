@@ -1,0 +1,8 @@
+tensorflow-gpu==2.9.1
+opencv-python==4.5.5.64
+lxml
+tqdm
+fiftyone
+oidv6-to-voc
+
+-e .
